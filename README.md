@@ -6,7 +6,7 @@ This repository explains the working of a robotic arm( A programmable mechanical
 - Implemented using "Arduino" and "C++"  
 - Tested for accuracy and smooth motion execution
 
-# Obstacle Avoidance Mobile Robot
+# Obstacle Avoidance Mobile Robot :
 An autonomous mobile robot engineered to detect and navigate around obstacles in real time using ultrasonic sensors and motor driver control.  
 - Uses an "ultrasonic sensor" to measure distance to objects  
 - If an obstacle is detected within a set range, the robot stops, reverses, and changes direction  
